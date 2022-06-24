@@ -126,7 +126,6 @@ i {
 .nav-link:hover {
   color: #fff;
   background: #1b5f7d;
-  /* padding-left: 1rem; */
 }
 .nav-links {
   background: #2581aa;
@@ -134,7 +133,7 @@ i {
   overflow: hidden;
 }
 .show-links {
-  height: 192.5px;
+  height: 200px;
 }
 .nav {
   background: #2581aa;
