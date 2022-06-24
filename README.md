@@ -1,3 +1,3 @@
-# Project replicating discovery.princeton.edu
+# Project replicating discovery.princeton.edu - https://discovery.princeton.edu/
 
-https://danthesage01.github.io/discovery-princeton-edu/
+#Demo Link: https://princeton-example.netlify.app/
